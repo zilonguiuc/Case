@@ -3,7 +3,9 @@ Memorial Hospital's Family Practice group is not receiving the expected professi
 
 ## Goal:
 The goal is to analyze Memorial Hospital's professional encounter data and identify potential factors that may affect the reimbursement of the Family Practice group. The analysis will provide insights into the volume of office visits and inpatient encounters, distribution of E/M codes, and the performance of top providers. The analysis will also determine the increase in reimbursement if the group were performing at the 50th and 80th percentile levels.</p><p>Data Description:
-The data provided in the 'Professional Encounters' Excel file contains the service date, E/M code, provider name, and provider specialty for a full year of Memorial Hospital's professional encounter data from 1/1/2021 to 12/31/2021. The CFO also provided the reimbursement that Memorial Hospital receives for each E/M code. The file also includes the 50th and 80th percentile levels of other hospitals in the area and the patient acuity ranges for each E/M code.</p>Data Dictionary:
+The data provided in the 'Professional Encounters' Excel file contains the service date, E/M code, provider name, and provider specialty for a full year of Memorial Hospital's professional encounter data from 1/1/2021 to 12/31/2021. The CFO also provided the reimbursement that Memorial Hospital receives for each E/M code. The file also includes the 50th and 80th percentile levels of other hospitals in the area and the patient acuity ranges for each E/M code.
+  
+ ## Data Dictionary:
 1. Service Date: The date on which the patient encounter took place.
 2. E/M Code: The Evaluation and Management code assigned to each physician encounter.
 3. Provider Name: The name of the provider who conducted the patient encounter.
